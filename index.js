@@ -9,11 +9,11 @@ let text = `# Hi there 👋
 
 ## 이런 환경에 익숙해요✍🏼
 
-## 언어
-
 <p>
+  <img alt="" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+  <img alt="" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img alt="" src= "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> 
   <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
 
 ## 📕 Latest Blog Posts
@@ -29,7 +29,7 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://devpad.tistory.com/rss'); // 본인의 블로그 주소
+    const feed = await parser.parseURL('https://howtomakecode.tistory.com/rss'); // 본인의 블로그 주소
     
     text += `<ul>`;
     
