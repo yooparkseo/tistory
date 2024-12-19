@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 이런 환경에 익숙해요✍🏼
+## Skill ✍🏼
 
 <p>
   <img alt="" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
